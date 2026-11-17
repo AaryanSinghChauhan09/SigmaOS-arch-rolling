@@ -3,7 +3,7 @@ name = "SigmaOS-arch-rolling"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-rolling component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]

@@ -1,10 +1,10 @@
 [package]
-name = "arch-rolling"
+name = "sigmaos-rolling"
 version = "0.1.0"
 edition = "2021"
-description = "SigmaOS SigmaOS-arch-rolling component - SigmaOS component"
+description = "SigmaOS SigmaOS-rolling component - SigmaOS component"
 license = "MIT"
-repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-rolling"
+repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-rolling"
 
 [dependencies]
 thiserror = "2"

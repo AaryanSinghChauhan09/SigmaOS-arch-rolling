@@ -1,4 +1,4 @@
-# SigmaOS-arch-rolling
+# SigmaOS-rolling
 
 SigmaOS component repository
 

@@ -1,4 +1,4 @@
-use arch_rolling::Component;
+use sigmaos_rolling::Component;
 
 #[test]
 fn test_component_new_aaa() {

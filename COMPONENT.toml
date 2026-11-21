@@ -1,5 +1,5 @@
 [component]
-name = "SigmaOS-arch-rolling"
+name = "SigmaOS-rolling"
 tier = 2
 stability = "scaffold"
 language = "rust"
